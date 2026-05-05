@@ -25,7 +25,9 @@ Pour compiler les fichiers sources C, utilisez les commandes suivantes :
 
 
 gcc etudiant1.c -o etudiant
+
 gcc etudiant2.c -o etudiant
+
 gcc etudiant3.c -o etudiant
 
 
